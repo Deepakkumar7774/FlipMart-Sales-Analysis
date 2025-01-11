@@ -62,8 +62,9 @@ Advanced Custom Visuals: Add custom visuals for enhanced storytelling.
 
 🤝 Connect & Collaborate
 
-I’d love to hear your feedback or collaborate on similar projects!
-Feel free to reach out via LinkedIn here: https://www.linkedin.com/in/deepakkumar7774 or email me at deepakkumarsingh7774@gmail.com
+📧 deepakkumarsingh7774@gmail.com
+🔗 https://www.linkedin.com/in/deepakkumar7774 
+🌐 https://github.com/Deepakkumar7774/FlipMart-sales-Analysis
 
 🙌 Thank You for Visiting!
 If you find this project insightful, consider giving it a ⭐ to support the work. Let's transform data into impactful decisions together!
