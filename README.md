@@ -79,6 +79,8 @@ Advanced Custom Visuals: Add custom visuals for enhanced storytelling.
 🌐 https://github.com/Deepakkumar7774/FlipMart-sales-Analysis
 
 
-**🙌 Thank You for Visiting!
-If you find this project insightful, consider giving it a ⭐ to support the work. Let's transform data into impactful decisions together!**
+**🙌 Thank You for Visiting!**
 
+**If you find this project insightful, consider giving it a ⭐ to support the work.**
+
+**Let's transform data into impactful decisions together!**
